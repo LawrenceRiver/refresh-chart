@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refresh Chart"
+  short_description: "参考图驱动的图表焕新：方案问答、英文预览、中文可编辑 SVG 与数据核验"
+  default_prompt: "请使用 $refresh-chart，根据参考图 A 改造我的 SVG 图表 B，并结合可选 CSV 数据 C，先评估方案并问答确认，再完成英文预览和中文可编辑 SVG。"
